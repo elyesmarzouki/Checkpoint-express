@@ -1,0 +1,16 @@
+a{
+    color: blue;
+}
+a:hover{
+    color: black;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(180, 180, 180);
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
